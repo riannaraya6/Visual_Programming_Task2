@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="image">
+    <file>ff67ed83ff217995d7a7bf1b8b18c068.jpg</file>
+    <file>e4d25f96176c25397df80dd9021c5a1c.jpg</file>
+    <file>b58b20d64967db65a44f383a83960b66.jpg</file>
+    <file>27780fc651dff0eb419b06ecf93a3055.jpg</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>87cbd48fcd2eba1eadd8addb5f54e21d-removebg-preview.png</file>
+  </qresource>
+</RCC>
